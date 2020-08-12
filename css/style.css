@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.header-section{
+    background-color:#222222;
+}
+.navbar-light .navbar-nav .nav-link {
+ 
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: capitalize;
+    border-right: 1px solid white;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: orange;
+}
+.gallery-section p{
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.navbar{
+    border-bottom: 2px solid #7C9C37;
+}
+.red{
+    width: 600px;
+    height: 3px;
+    background-color:#E8E8E8;
+    display: block;
+    margin:auto;
+   
+
+
+}
+.card-body{
+    background-color: #F0F0F0 !important;
+}
+
+.contant h5{
+    font-size: 20px;
+    font-weight: 700;
+    color:#7C9C37;
+}
+.contant p{
+    margin-bottom: 0px;
+    font-weight: 300;
+    font-size: 15px;
+}
+.feature-section h3 {
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 16px;
+    color: #839C37;
+}
+.feature-section p{
+    font-size: 13px;
+    font-weight: 300;
+}
+.green{
+     color:#7C9C37;
+}
+.fa{
+    margin-right: 16px;
+}
+.lead {
+    font-size: 14px;
+}
+.feature-section  h5{
+    font-size: 21px;
+}
+.feature-section  h5{
+    font-size: 21px;
+}
+.feature-section h4 {
+    font-size: 14px;
+    margin-top: 13px;
+}
+.all-contant h6 {
+    font-size: 14px;
+    margin-top: 13px;
+}
+.all-contant  img{
+    margin-top: 15px;
+}
+.img-fluid {
+    max-width: 315%;
+    height: auto;
+   }
+
+   .feature-section{
+    margin-top: 10px;
+   }
+
+   .footer-section{
+    background-color: #222222;
+   }
+.footer-section h3{
+     font-size: 14px;
+    font-weight: 600;
+}
+.footer-section p {
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.footer-section img{
+    
+}
+.footer-content{}
+.footer-content ul{}
+.footer-content ul li{
+    font-size: 12px;
+    border-bottom: 1px solid #3a3a3a;
+    padding-bottom: 7px;
+     color: #839C37;
+}
+.footer-content ul li a{
+     color: #839C37;
+}
+.footer{
+    margin-top: 10px;
+}
+.footer h4{
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.footer p {
+   
+    margin-top: 0px;
+}
+.footer span{
+    font-size: 10px;
+}
+.img-section img{
+    margin-top: -30px;
+}
+.greenn{
+     color: #839C37;
+     font-size: 12px;
+}
+
